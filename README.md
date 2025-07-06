@@ -26,11 +26,14 @@ A simple and modern web application to manage your personal tasks. Add, edit, fi
 - [Other libraries: lucide-react, pnpm, etc.]
 
 ## 🌐 Live Demo
-[Link to deployed application]
+[[Link to deployed application](https://task-tracker-eight-coral.vercel.app/)]
 
 ## 📸 Screenshots
+- What App looks like ?
 ![App Screenshot](github_readme_screenshots/app_ss.png)
+- see how it uses pending and completed filters ?
 ![Filter Screenshot](github_readme_screenshots/filter_ss.png)
+- 
 ![Search Filter Screenshot](github_readme_screenshots/search_ss.png)
 
 ---
